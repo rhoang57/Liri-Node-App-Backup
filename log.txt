@@ -1,0 +1,47 @@
+
+======Begin Spotify Log Entry======
+Artist: Ariana Grande
+Song Name: thank u, next
+ Preview Link: https://api.spotify.com/v1/tracks/2rPE9A1vEgShuZxxzR2tZH
+Album Name: thank u, next
+======End Spotify Log Entry======
+======Begin Concert Log Entry======
+Name of the musician: drake
+Name of the venue: Chateau Le Jardin Event Venue
+Venue location: Woodbridge
+ Date of event: 11-29-2018
+======End Concert Log Entry======
+======Begin Movie Log Entry======
+Movie title: Trolls
+Year released: 2016
+IMDB rating: 6.5
+Rotten Tomatoes rating: 74%
+Country where produced: USA
+Language: English
+Plot: After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.
+Actors: Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse
+======End Movie Log Entry======
+======Begin Spotify Log Entry======
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+ Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album Name: The Hits--Chapter One
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Halsey
+Song Name: Without Me
+ Preview Link: https://api.spotify.com/v1/tracks/5p7ujcrUXASCNwRaWNHR1C
+Album Name: Without Me
+======End Spotify Log Entry======
+======Begin Spotify Log Entry======
+Artist: Halsey
+Song Name: Without Me
+ Preview Link: https://api.spotify.com/v1/tracks/5p7ujcrUXASCNwRaWNHR1C
+Album Name: Without Me
+======End Spotify Log Entry======
+======Begin Concert Log Entry======
+Name of the musician: migos
+Name of the venue: Scotiabank Arena
+Venue location: Toronto
+ Date of event: 11-30-2018
+======End Concert Log Entry======
