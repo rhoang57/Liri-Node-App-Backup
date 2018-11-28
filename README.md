@@ -11,8 +11,8 @@ When running this app in your command line, you may use the following to find yo
 ---------------------------------------------------
 # Spotify API keys
 
-SPOTIFY_ID=<replace your Spotify ID>
-SPOTIFY_SECRET=<replace with your Spotify Secret>
+SPOTIFY_ID="replace your Spotify ID"
+SPOTIFY_SECRET="replace with your Spotify Secret"
 ---------------------------------------------------
 
 Here is a link to a YouTube video tutorial explaining and demonstrating the Liri app: https://youtu.be/ja9taAZVHKs
